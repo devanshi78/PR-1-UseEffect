@@ -69,7 +69,7 @@ PR-1-USEEFFECT
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/devanshi78/PR-1-UseEffect
 ```
 
 2. Install dependencies
